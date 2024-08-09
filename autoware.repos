@@ -117,7 +117,7 @@ repositories:
     version: main
   sensor_kit/external/awsim_sensor_kit_launch: # TODO: Integrate into sample_sensor_kit_launch
     type: git
-    url: https://github.com/RobotecAI/awsim_sensor_kit_launch.git
+    url: https://github.com/SergioReyesSan/sample_sergio_sensor_kit_launch.git
     version: main
   sensor_kit/awsim_labs_sensor_kit_launch:
     type: git
@@ -130,7 +130,7 @@ repositories:
   # vehicle
   vehicle/sample_vehicle_launch:
     type: git
-    url: https://github.com/autowarefoundation/sample_vehicle_launch.git
+    url: https://github.com/SergioReyesSan/sample_sergio_vehicle_launch.git
     version: main
   vehicle/external/pacmod_interface:
     type: git
