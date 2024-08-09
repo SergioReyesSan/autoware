@@ -85,7 +85,7 @@ repositories:
   # launcher
   launcher/autoware_launch:
     type: git
-    url: https://github.com/autowarefoundation/autoware_launch.git
+    url: https://github.com/SergioReyesSan/autoware_sergio_launch.git
     version: main
   # sensor_component
   sensor_component/external/sensor_component_description:
@@ -139,5 +139,5 @@ repositories:
   # param
   param/autoware_individual_params:
     type: git
-    url: https://github.com/autowarefoundation/autoware_individual_params.git
+    url: https://github.com/SergioReyesSan/autoware_sergio_individual_params.git
     version: main
