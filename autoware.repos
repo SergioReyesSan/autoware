@@ -84,7 +84,7 @@ repositories:
     url: https://github.com/tier4/glog.git
     version: v0.6.0_t4-ros
   # launcher
-  launcher/autoware_launch:
+  launcher/autoware_sergio_launch:
     type: git
     url: https://github.com/SergioReyesSan/autoware_sergio_launch.git
     version: main
@@ -112,7 +112,7 @@ repositories:
     url: https://github.com/autowarefoundation/ros2_socketcan
     version: feat/continental_fd
   # sensor_kit
-  sensor_kit/sample_sensor_kit_launch:
+  sensor_kit/sample_sergio_sensor_kit_launch:
     type: git
     url: https://github.com/SergioReyesSan/sample_sergio_sensor_kit_launch.git
     version: main
@@ -129,7 +129,7 @@ repositories:
     url: https://github.com/autowarefoundation/single_lidar_sensor_kit_launch.git
     version: main
   # vehicle
-  vehicle/sample_vehicle_launch:
+  vehicle/sample_sergio_vehicle_launch:
     type: git
     url: https://github.com/SergioReyesSan/sample_sergio_vehicle_launch.git
     version: main
@@ -142,7 +142,7 @@ repositories:
     url: https://github.com/tier4/pacmod_interface.git
     version: main
   # param
-  param/autoware_individual_params:
+  param/autoware_sergio_individual_params:
     type: git
     url: https://github.com/SergioReyesSan/autoware_sergio_individual_params.git
     version: main
